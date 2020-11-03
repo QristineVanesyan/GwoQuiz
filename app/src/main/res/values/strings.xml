@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GwoQuiz</string>
+    <!--for button-->
+    <string name="button_true">true</string>
+    <string name="button_false">false</string>
+    <string name="button_next">next</string>
+    <!--for toast-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <!--for quiz-->
+    <string name="q1">Canberra is the capital of Australia.</string>
+    <string name="q2">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="q3">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="q4">The source of the Nile River is in Egypt.</string>
+    <string name="q5">The Amazon River is the longest river int the Americas.</string>
+    <string name="q6">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="button_prev">prev</string>
+    <string name="for_left">to left</string>
+    <string name="for_right">to right</string>
+</resources>
